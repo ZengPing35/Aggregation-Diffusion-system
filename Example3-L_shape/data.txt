@@ -1,0 +1,101 @@
+Fix (tau=2.500000e-05)
+The free energy at T=0: 1.306391e-01
+The total mass at T=0: 5.620077e-02
+The total mass at T=5.000000e-02: 5.620077e-02
+The free energy at T=5.000000e-02: 9.889778e-02
+The total mass at T=1.000000e-01: 5.620077e-02
+The free energy at T=1.000000e-01: 8.748634e-02
+The total mass at T=1.500000e-01: 5.620077e-02
+The free energy at T=1.500000e-01: 8.096785e-02
+The total mass at T=2.000000e-01: 5.620077e-02
+The free energy at T=2.000000e-01: 7.667074e-02
+The total mass at T=2.500000e-01: 5.620077e-02
+The free energy at T=2.500000e-01: 7.360751e-02
+The total mass at T=3.000000e-01: 5.620077e-02
+The free energy at T=3.000000e-01: 7.131482e-02
+The total mass at T=3.500000e-01: 5.620077e-02
+The free energy at T=3.500000e-01: 6.954176e-02
+The total mass at T=4.000000e-01: 5.620077e-02
+The free energy at T=4.000000e-01: 6.813866e-02
+The total mass at T=4.500000e-01: 5.620077e-02
+The free energy at T=4.500000e-01: 6.700976e-02
+The total mass at T=5.000000e-01: 5.620077e-02
+The free energy at T=5.000000e-01: 6.609044e-02
+The total mass at T=5.500000e-01: 5.620077e-02
+The free energy at T=5.500000e-01: 6.533531e-02
+The total mass at T=6.000000e-01: 5.620077e-02
+The free energy at T=6.000000e-01: 6.471145e-02
+The total mass at T=6.500000e-01: 5.620077e-02
+The free energy at T=6.500000e-01: 6.419452e-02
+The total mass at T=7.000000e-01: 5.620077e-02
+The free energy at T=7.000000e-01: 6.376692e-02
+The total mass at T=7.500000e-01: 5.620077e-02
+The free energy at T=7.500000e-01: 6.341743e-02
+The total mass at T=8.000000e-01: 5.620077e-02
+The free energy at T=8.000000e-01: 6.313857e-02
+The total mass at T=8.500000e-01: 5.620077e-02
+The free energy at T=8.500000e-01: 6.292417e-02
+The total mass at T=9.000000e-01: 5.620077e-02
+The free energy at T=9.000000e-01: 6.276806e-02
+The total mass at T=9.500000e-01: 5.620077e-02
+The free energy at T=9.500000e-01: 6.266260e-02
+The total mass at T=1: 5.620077e-02
+The free energy at T=1: 6.259797e-02
+The total mass at T=1.100000e+00: 5.620077e-02
+The free energy at T=1.100000e+00: 6.255102e-02Fix (tau=2.500000e-05)
+The free energy at T=0: 1.306391e-01
+The total mass at T=0: 5.620077e-02
+The total mass at T=1.000000e-01: 5.620077e-02
+The free energy at T=1.000000e-01: 8.748634e-02
+The total mass at T=2.000000e-01: 5.620077e-02
+The free energy at T=2.000000e-01: 7.667074e-02
+The total mass at T=3.000000e-01: 5.620077e-02
+The free energy at T=3.000000e-01: 7.131482e-02
+The total mass at T=4.000000e-01: 5.620077e-02
+The free energy at T=4.000000e-01: 6.813866e-02
+The total mass at T=5.000000e-01: 5.620077e-02
+The free energy at T=5.000000e-01: 6.609044e-02
+The total mass at T=6.000000e-01: 5.620077e-02
+The free energy at T=6.000000e-01: 6.471145e-02
+The total mass at T=7.000000e-01: 5.620077e-02
+The free energy at T=7.000000e-01: 6.376692e-02
+The total mass at T=8.000000e-01: 5.620077e-02
+The free energy at T=8.000000e-01: 6.313857e-02
+The total mass at T=9.000000e-01: 5.620077e-02
+The free energy at T=9.000000e-01: 6.276806e-02
+The total mass at T=1: 5.620077e-02
+The free energy at T=1: 6.259797e-02
+The total mass at T=1.100000e+00: 5.620077e-02
+The free energy at T=1.100000e+00: 6.255102e-02
+The total mass at T=1.200000e+00: 5.620077e-02
+The free energy at T=1.200000e+00: 6.256359e-02
+The total mass at T=1.300000e+00: 5.620077e-02
+The free energy at T=1.300000e+00: 6.259953e-02
+The total mass at T=1.400000e+00: 5.620077e-02
+The free energy at T=1.400000e+00: 6.264220e-02
+The total mass at T=1.500000e+00: 5.620077e-02
+The free energy at T=1.500000e+00: 6.268612e-02
+figure_free_energy
+{函数或变量 'free_energy_16' 无法识别。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('figure_free_energy', 'F:\MATLAB\program\Aggregation diffusion equation\code\Modification\L_shape_Mod 2\L_shape\Fanshaped_ex4_mac_fill3_32\figure_free_energy.m', 15)" style="font-weight:bold">figure_free_energy</a> (<a href="matlab: opentoline('F:\MATLAB\program\Aggregation diffusion equation\code\Modification\L_shape_Mod 2\L_shape\Fanshaped_ex4_mac_fill3_32\figure_free_energy.m',15,0)">line 15</a>)
+plot(free_energy_x', free_energy_16, 'r');
+} 
+figure_free_energy
+load('free_energy_24.mat')
+figure_mass_conservation
+load('Mass_conservation_24.mat')
+{对象无效或已删除。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('colormapeditor>create_axes_listeners', 'F:\MATLAB\toolbox\matlab\graph3d\colormapeditor.m', 754)" style="font-weight:bold">colormapeditor>create_axes_listeners</a> (<a href="matlab: opentoline('F:\MATLAB\toolbox\matlab\graph3d\colormapeditor.m',754,0)">line 754</a>)
+    al.titleSet = event.listener(ax.Title,'MarkedClean', ...
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('colormapeditor>handle_axes_change', 'F:\MATLAB\toolbox\matlab\graph3d\colormapeditor.m', 839)" style="font-weight:bold">colormapeditor>handle_axes_change</a> (<a href="matlab: opentoline('F:\MATLAB\toolbox\matlab\graph3d\colormapeditor.m',839,0)">line 839</a>)
+        create_axes_listeners(fig,ax);
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('colormapeditor>set_current_figure', 'F:\MATLAB\toolbox\matlab\graph3d\colormapeditor.m', 549)" style="font-weight:bold">colormapeditor>set_current_figure</a> (<a href="matlab: opentoline('F:\MATLAB\toolbox\matlab\graph3d\colormapeditor.m',549,0)">line 549</a>)
+handle_axes_change(fig,ax,true);
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('colormapeditor>handle_callback', 'F:\MATLAB\toolbox\matlab\graph3d\colormapeditor.m', 245)" style="font-weight:bold">colormapeditor>handle_callback</a> (<a href="matlab: opentoline('F:\MATLAB\toolbox\matlab\graph3d\colormapeditor.m',245,0)">line 245</a>)
+      set_current_figure(fig,oldfig,oldax);
+} 
